@@ -1,8 +1,8 @@
 # Rust 3D Game Engine
-
-<img width="500" alt="road (1)" src="https://github.com/westonbattles/Rust-3D-Game-Engine/assets/50222899/50bb87b6-592c-4eaa-94b6-17b6d24bed83">
-<img width="500" alt="kachow" src="https://github.com/westonbattles/Rust-3D-Game-Engine/assets/50222899/a06d7d50-499d-4080-bf44-a6d8dc54e6c5">
-
+<p align="center">
+  <img width="500" alt="road (1)" src="https://github.com/westonbattles/Rust-3D-Game-Engine/assets/50222899/50bb87b6-592c-4eaa-94b6-17b6d24bed83">
+  <img width="500" alt="kachow" src="https://github.com/westonbattles/Rust-3D-Game-Engine/assets/50222899/a06d7d50-499d-4080-bf44-a6d8dc54e6c5">
+</p>
 
 ## Overview
 This project is a 3D game engine written in Rust. It was done as a passion project and as a way for me to blend my love for rust and game development.
