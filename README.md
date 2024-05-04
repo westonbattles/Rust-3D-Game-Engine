@@ -1,8 +1,12 @@
 # Rust 3D Game Engine
 
+<img width="500" alt="road (1)" src="https://github.com/westonbattles/Rust-3D-Game-Engine/assets/50222899/50bb87b6-592c-4eaa-94b6-17b6d24bed83">
+<img width="500" alt="kachow" src="https://github.com/westonbattles/Rust-3D-Game-Engine/assets/50222899/a06d7d50-499d-4080-bf44-a6d8dc54e6c5">
+
+
 ## Overview
-This project is a 3D game engine written in Rust. It was done as a passion project and as a way for me to blend my love for Rust and game development.
-Going through with this project really opened my eyes to how easily I take for granted the much-streamlined rendering pipeline, and I have a crazy greater appreciation for it now.
+This project is a 3D game engine written in Rust. It was done as a passion project and as a way for me to blend my love for rust and game development.
+Going through with this project was really painful but it also opened my eyes to how easily I take for granted the much-streamlined rendering pipeline. I have a crazy greater appreciation for it now.
 
 ## Helpful Resources
 These helped guide me through the process a lot:
@@ -10,7 +14,7 @@ These helped guide me through the process a lot:
 - [how 2 code game 3d](https://www.youtube.com/watch?v=BFZKSV2zieM)
 - [Rust Game Engine Series](https://www.youtube.com/watch?v=uKKLYgl4Nuc&list=PL6TfJEvHZ7C--kM59vKUwNnh30ngWZKUD)
 
-## Getting Started
+## Running it for Yourself
 
 ### Prerequisites
 If you want to download and run the project, ensure you have the following installed:
