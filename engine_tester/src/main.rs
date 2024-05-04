@@ -68,7 +68,10 @@ fn main() {
     let up: Vector3<f32> = Vector3::new(0.0, 1.0, 0.0); // Up direction
     let mut view: Matrix4<f32> = Matrix4::look_at_rh(camera_pos, camera_pos.add(camera_facing), up);
     let mut model: Matrix4<f32>; //Matrix4::from_angle_x(Deg(-55.0));
-    {
+    {   
+        // I'm using mutex for the shader program so I can statically access it 
+        // (I need to send the aspect ratio to the shader buffer from the resize callback function
+        // which is a statically defined function)
         let mut shader_program_gaurd = SHADER_PROGRAM.lock().unwrap();
         *shader_program_gaurd = Some(ShaderProgram::new(
             "./rge/src/graphics/shaders/vertex_shader.glsl", 
