@@ -1,4 +1,4 @@
-/* Helper binary that duplicates a model, mirrors it on the x axis and duplicates it down a
+/* Helper binary that copies a model by mirroring it on the x axis, and duplicating it down a
 specified number of rows, outputting the list of vertices and indices at the end */
 
 const MODEL_VERTICES: [f32; 54] = [
