@@ -6,7 +6,7 @@
 
 ## Overview
 This project is a 3D game engine written in Rust. It was done as a passion project and as a way for me to blend my love for rust and game development.
-Going through with this project was really painful but it also opened my eyes to how easily I take for granted the much-streamlined rendering pipeline. I have a crazy greater appreciation for it now.
+Going through with this project was really painful but it also opened my eyes to how easily I take for granted the much-streamlined rendering pipeline and I have a crazy greater appreciation for it now.
 
 ## Capabilities
 Pretty much all you can do right now is walk around and look at a static mono-chromatic world, but I'm planning on adding features such as multi-textured meshes, importing models from obx files and better movement (I'm gonna try and port the movement from quake 3)
