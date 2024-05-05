@@ -27,7 +27,7 @@ If you want to download and run the project, ensure you have the following insta
 Next, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Rust-3D-Game-Engine.git
+git clone https://github.com/westonbattles/Rust-3D-Game-Engine.git
 cd Rust-3D-Game-Engine
 ```
 
